@@ -3,7 +3,6 @@
 .transition-fade{
     opacity: 1;
     transition: 500ms;
-    transform: translateX(0);
 }
 
 html.is-animating .transition-fade{
